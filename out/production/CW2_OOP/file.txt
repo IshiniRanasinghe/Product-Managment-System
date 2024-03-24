@@ -1,0 +1,5 @@
+Clothing[ productId= 9001, productName= Tshirts, availableItems= 20, price= 900.0, size= L, color= pink,type= clothing]
+Electronics[ productId= 5009, productName= mobile, availableItems= 7, price= 50000.0, brand= samsung, warrantyPeriod= 24,type= Electronic]
+Clothing[ productId= 2003, productName= moose, availableItems= 20, price= 500.0, size= L, color= blue,type= clothing]
+Electronics[ productId= 5001, productName= television, availableItems= 5, price= 90000.0, brand= innovex, warrantyPeriod= 24,type= Electronic]
+Clothing[ productId= 80092, productName= trouser, availableItems= 10, price= 3500.0, size= S, color= blue,type= clothing]
